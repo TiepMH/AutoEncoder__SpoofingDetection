@@ -16,10 +16,6 @@ The following commands will then work perfectly
 
 # exec(open('az_p2_ETL.py').read())
 
-# exec(open('az_p3_learning.py').read())
+exec(open('az_p3_learning.py').read())
 
-# exec(open('az_p4_illustration.py').read())
-
-exec(open('az_p3_learning_WRITING_PAPER.py').read())
-
-exec(open('az_p4_illustration_WRITING_PAPER.py').read())
+exec(open('az_p4_illustration.py').read())

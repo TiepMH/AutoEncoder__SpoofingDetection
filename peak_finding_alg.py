@@ -1,5 +1,3 @@
-# https://stackoverflow.com/questions/22583391/peak-signal-detection-in-realtime-timeseries-data
-# https://stackoverflow.com/questions/1713335/peak-finding-algorithm-for-python-scipy
 import numpy as np
 import scipy.signal as ss
 

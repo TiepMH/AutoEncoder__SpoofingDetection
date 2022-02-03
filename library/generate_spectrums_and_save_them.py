@@ -1,6 +1,3 @@
-# https://dengjunquan.github.io/posts/2018/08/DoAEstimation_Python/
-# https://github.com/dengjunquan/DoA-Estimation-MUSIC-ESPRIT
-
 import numpy as np
 import pickle
 from library.class_MUSIC_spectrum_without_Eve import MUSIC_spectrum_without_Eve

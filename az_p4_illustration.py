@@ -318,6 +318,6 @@ exec(open('lib_detection_method/perf_vs_factors__changing_nTx.py').read())
 exec(open('lib_detection_method/perf_vs_factors__changing_snrdB.py').read())
 
 """" ROC curves """
-exec(open('lib_detection_method/perf__PCD_vs_PFA__changing_nTx.py').read())
-exec(open('lib_detection_method/perf__PCD_vs_PFA__changing_snrdB.py').read())
-exec(open('lib_detection_method/perf__PCD_vs_PFA__changing_snrdB__E.py').read())
+# exec(open('lib_detection_method/perf__PCD_vs_PFA__changing_nTx.py').read())
+# exec(open('lib_detection_method/perf__PCD_vs_PFA__changing_snrdB.py').read())
+# exec(open('lib_detection_method/perf__PCD_vs_PFA__changing_snrdB__E.py').read())

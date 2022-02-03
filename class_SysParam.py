@@ -1,4 +1,3 @@
-
 class SystemParameters:
     def __init__(self):
         self.n_Tx = 4  # Bob_1, Bob_2, Bob_3, and Eve
